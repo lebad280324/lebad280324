@@ -151,8 +151,8 @@ electronic forms and document-status tracking.
 
 - GitHub: [github.com/lebad280324](https://github.com/lebad280324)
 - Services: [View our services website](https://lebad280324.github.io/our-services-website/)
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your professional email here
+- LinkedIn: https://www.linkedin.com/in/dũng-lê-bá-78911a270?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Email: lebadung561@gmail.com
 
 ---
 
